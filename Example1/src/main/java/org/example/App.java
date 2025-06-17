@@ -31,5 +31,8 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
         System.out.println( "Hello World!" );
+        for (int i = 0; i < 100; i++) {
+
+        }
     }
 }
